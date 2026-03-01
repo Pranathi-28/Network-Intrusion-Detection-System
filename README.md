@@ -80,3 +80,58 @@ KDD Intrusion Detection Dataset
 ## 👩‍💻 Author
 Developed by Pranathi  
 Focused on Data Analytics & Cybersecurity
+
+---
+
+## ▶️ How to Run the Project
+
+### Step 1: Install Dependencies
+
+pip install pandas numpy scikit-learn
+
+---
+
+### Step 2: Run Preprocessing
+
+python preprocess.py
+
+---
+
+### Step 3: Train Model
+
+python model.py
+
+---
+
+### Step 4: Run Prediction
+
+python predict.py
+
+---
+
+### Step 5: Run Dashboard
+
+python dashboard.py
+
+---
+
+## 📊 Sample Output
+
+The system analyzes network traffic and predicts whether the activity is:
+
+✔️ Normal  
+❌ Attack
+
+Example Prediction:
+
+Input Network Features → Processed → ML Model → Output:
+
+Prediction: **DoS Attack Detected**
+
+---
+
+## 📈 Model Performance
+
+- Accurate classification of malicious traffic  
+- Detects multiple intrusion types  
+- Supports automated threat detection
