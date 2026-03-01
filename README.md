@@ -135,3 +135,37 @@ Prediction: **DoS Attack Detected**
 - Accurate classification of malicious traffic  
 - Detects multiple intrusion types  
 - Supports automated threat detection
+
+---
+
+## 💼 Project Impact
+
+This project demonstrates the practical integration of:
+
+✔️ Machine Learning  
+✔️ Data Analytics  
+✔️ Cybersecurity  
+
+It simulates how real-world Security Operations Centers (SOC) detect malicious network activity using intelligent systems.
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Preprocessing  
+- Feature Engineering  
+- Supervised Machine Learning  
+- Threat Detection  
+- Predictive Analysis  
+- Cyber Attack Classification  
+
+---
+
+## 🌍 Real-World Application
+
+Can be used for:
+
+- Network threat monitoring  
+- Early cyber attack detection  
+- Security analytics systems  
+- Intelligent intrusion prevention frameworks
